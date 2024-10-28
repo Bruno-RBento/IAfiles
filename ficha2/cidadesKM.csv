@@ -1,0 +1,32 @@
+origem,destino,distancia
+Viana do Castelo,Braga,50
+Viana do Castelo,Porto,80
+Braga,Porto,80
+Braga,Vila Real,100
+Braganca,Vila Real,140
+Braganca,Guarda,200
+Vila Real,Guarda,150
+Vila Real,Viseu,110
+Porto,Vila Real,120
+Porto,Aveiro,70
+Viseu, Guarda,80
+Viseu,Coimbra,80
+Aveiro,Viseu,100
+Aveiro,Coimbra,80
+Coimbra,Leiria,70
+Coimbra,Castelo Branco,160
+Coimbra,Guarda,160
+Leiria,Lisboa,130
+Guarda,Castelo Branco,100
+Lisboa,Santarem,70
+Lisboa,Setubal,50
+Lisboa,Evora,150
+Santarem,Evora,120
+Santarem,Castelo Branco,200
+Santarem,Portalegre,150
+Castelo Branco,Portalegre,80
+Portalegre,Evora,100
+Setubal,Beja,135
+Setubal,Faro,260
+Evora,Beja,80
+Beja,Faro,170
